@@ -6,7 +6,7 @@ import turtle as t
 import math 
 johnTurt = t.Turtle()
 
-print('Turtle Draw')
+print('Welcome to Turtle Draw.')
 
 print('Enter filename.')
 user_int = input()
